@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 
 // DATABASE CONNECTION
 mongoose.connect(
-  "mongodb+srv://raed:z4WKYkFsQG3pH2TJ@cluster0.lfyij.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "mongodb+srv://fediz4WKYkFsQG3pH2TJ@cluster0.lfyij.mongodb.net/Cluster0?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
