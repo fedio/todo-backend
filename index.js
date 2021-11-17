@@ -29,3 +29,7 @@ const port = 8000;
 app.listen(port, () => {
   console.log("this server yemchi 3al port" + port);
 });
+
+//[remote "upstream"]
+	//url = https://github.com/Sapious/todo-backend.git
+	//fetch = +refs/heads/*:refs/remotes/upstream/*
